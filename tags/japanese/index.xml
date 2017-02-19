@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Japanese on Blog</title>
-    <link>https://manuelrdsg.github.io/tags/japanese/index.xml</link>
+    <link>/tags/japanese/index.xml</link>
     <description>Recent content in Japanese on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <atom:link href="https://manuelrdsg.github.io/tags/japanese/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/japanese/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>日本語テスト</title>
-      <link>https://manuelrdsg.github.io/2013/01/japanese-test/</link>
+      <link>/2013/01/japanese-test/</link>
       <pubDate>Wed, 02 Jan 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://manuelrdsg.github.io/2013/01/japanese-test/</guid>
+      <guid>/2013/01/japanese-test/</guid>
       <description>&lt;p&gt;This is a Japanese test post to show you how japanese is displayed.
 &lt;/p&gt;
 
