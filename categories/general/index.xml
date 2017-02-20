@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Manuel Rguez-Sánchez</title>
-    <link>/index.xml</link>
-    <description>Recent content on Manuel Rguez-Sánchez</description>
+    <title>General on Manuel Rguez-Sánchez</title>
+    <link>/categories/general/index.xml</link>
+    <description>Recent content in General on Manuel Rguez-Sánchez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Wed, 13 May 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/categories/general/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Yo he venido aquí a hablar de mi libro</title>
@@ -41,15 +40,6 @@ Pues por tres simples razones:
 &lt;p&gt;Esto ha sido todo por esta vez, no prometo regularidad alguna, pero pretendo actualizar esto de vez en cuando.
 &lt;strong&gt;¡Un saludo!&lt;/strong&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>About me</title>
-      <link>/page/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/page/about/</guid>
-      <description></description>
     </item>
     
   </channel>
