@@ -21,21 +21,24 @@ Llevaba un tiempo con el interés de hacerme un blog personal donde, como reza e
 
 &lt;h3 id=&#34;que-me-voy-a-encontrar&#34;&gt;¿Que me voy a encontrar?&lt;/h3&gt;
 
-&lt;p&gt;Pues un poco de todo, desde posts hablando de &lt;strong&gt;ocio en general&lt;/strong&gt; (libros, pelis, juegos, musica que me mole) a posts acerca de &lt;strong&gt;programación&lt;/strong&gt; o &lt;strong&gt;desarrollo de videojuegos&lt;/strong&gt; en el cual me encuentro inciandome en estos momentos.&lt;/p&gt;
+&lt;p&gt;Pues un poco de todo, desde posts hablando de &lt;strong&gt;ocio en general&lt;/strong&gt; (libros, pelis, juegos, musica que me mole) a posts acerca de &lt;strong&gt;programación&lt;/strong&gt; o &lt;strong&gt;desarrollo de videojuegos&lt;/strong&gt; en el cual me encuentro inciándome en estos momentos.&lt;/p&gt;
 
-&lt;p&gt;Me gustaría compartir con vosotros tanto experiencias personales como pequeños proyectillos que me vayan surgiendo poco a poco.Pero esto último, imagino, ya se acabará viendo con el tiempo.&lt;/p&gt;
+&lt;p&gt;Me gustaría compartir con vosotros tanto experiencias personales como pequeños proyectillos que me vayan surgiendo poco a poco. Pero esto último, imagino, ya se acabará viendo con el tiempo.&lt;/p&gt;
 
 &lt;h3 id=&#34;por-qué-hugo&#34;&gt;¿Por qué HUGO?&lt;/h3&gt;
 
 &lt;p&gt;Hechas las presentaciones hablemos un poco de desarrollo, mas concretamente de que lleva el blog por dentro. Aunque me gustaría dedicarle una entrada solamente a este tema así a bote pronto puedo contaros que este está hecho con &lt;a href=&#34;https://gohugo.io/&#34;&gt;HUGO&lt;/a&gt;. Un motor para la creación de webs estáticas (como esta) hecho en &lt;strong&gt;GoLang&lt;/strong&gt; (o Go a secas).&lt;/p&gt;
 
 &lt;p&gt;¿Por qué?
-Pues por tres simples razones:
-- Puede usarse con &lt;strong&gt;GitHub Pages&lt;/strong&gt;
-- Los posts se escriben en &lt;strong&gt;MarkDown&lt;/strong&gt; (indispensable para mi)
-- Posee una amplia variedad de plantilas de facil configuración como esta que estoy usando. &lt;strong&gt;&lt;a href=&#34;https://themes.gohugo.io/hugo-tranquilpeak-theme/#documentation&#34;&gt;Tranquilpeak&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+Pues por tres simples razones:&lt;/p&gt;
 
-&lt;p&gt;Estuve barajando un tiempo usar otros motores como &lt;strong&gt;Jekyll&lt;/strong&gt;, que está hecho en &lt;strong&gt;Ruby&lt;/strong&gt;. Pero lo que me llevó a decidirme finalmente por &lt;a href=&#34;https://gohugo.io/&#34;&gt;HUGO&lt;/a&gt;. fué su genial documentación. (La cual tenéis disponible pinchando en la palabra &amp;ldquo;hugo&amp;rdquo;).&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Puede usarse con &lt;strong&gt;GitHub Pages&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Los posts se escriben en &lt;strong&gt;MarkDown&lt;/strong&gt; (indispensable para mí)&lt;/li&gt;
+&lt;li&gt;Posee una amplia variedad de plantillas de fácil configuración como esta que estoy usando. &lt;strong&gt;&lt;a href=&#34;https://themes.gohugo.io/hugo-tranquilpeak-theme/#documentation&#34;&gt;Tranquilpeak&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Estuve barajando un tiempo usar otros motores como &lt;strong&gt;Jekyll&lt;/strong&gt;, que está hecho en &lt;strong&gt;Ruby&lt;/strong&gt;. Pero lo que me llevó a decidirme finalmente por &lt;a href=&#34;https://gohugo.io/&#34;&gt;HUGO&lt;/a&gt;. Fue su genial documentación. (La cual tenéis disponible pinchando en la palabra &amp;ldquo;Hugo&amp;rdquo;).&lt;/p&gt;
 
 &lt;p&gt;Esto ha sido todo por esta vez, no prometo regularidad alguna, pero pretendo actualizar esto de vez en cuando.
 &lt;strong&gt;¡Un saludo!&lt;/strong&gt;&lt;/p&gt;
