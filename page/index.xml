@@ -36,7 +36,14 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/page/projects/</guid>
-      <description></description>
+      <description>&lt;p&gt;####&lt;strong&gt;TextAdventures&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Developed by me and three friends (&lt;a href=&#34;https://github.com/luisrozo&#34;&gt;&lt;em&gt;Luis Gonzaga Rozo Bueno&lt;/em&gt;&lt;/a&gt;, &lt;a href=&#34;https://github.com/juanrodicio&#34;&gt;&lt;em&gt;Juan Antonio Rodicio Lopez&lt;/em&gt;&lt;/a&gt; and &lt;a href=&#34;https://github.com/avleze&#34;&gt;&lt;em&gt;Antonio Velez Estevez&lt;/em&gt;&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;This was our first game, we wanted to made a text-based game stringly inspired by other similar games such as &lt;em&gt;Zork&lt;/em&gt;. So chose &lt;em&gt;Java&lt;/em&gt; as our language and we focused on the design, usign &lt;em&gt;Design Patterns&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;If You want to know more about it, you could check out the wiki of the &lt;a href=&#34;https://github.com/manuelrdsg/TextAdventures/wiki&#34;&gt;&lt;strong&gt;GitHub repository&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
