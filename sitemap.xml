@@ -39,6 +39,10 @@
   </url>
   
   <url>
+    <loc>/page/projects/</loc>
+  </url>
+  
+  <url>
     <loc>/post/</loc>
     <lastmod>2017-02-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
