@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Manuel Rguez-Sánchez</title>
-    <link>/post/index.xml</link>
-    <description>Recent content in Posts on Manuel Rguez-Sánchez</description>
+    <title>Erasmus on Manuel Rguez-Sánchez</title>
+    <link>/tags/erasmus/index.xml</link>
+    <description>Recent content in Erasmus on Manuel Rguez-Sánchez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Sat, 25 Mar 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/erasmus/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Erasmus</title>
@@ -43,43 +42,6 @@ Se me ha ocurrido que puede ser interesante relataros la aventura a lo largo de 
 &lt;p&gt;Una vez elegidas las asignaturas y la duración habrá que empezar a preparar cosas tales como la estancia y demás temas. Pero toca tomárselo con calma y pensar bien las cosas.&lt;/p&gt;
 
 &lt;p&gt;De momento aquí se queda lo que puedo contaros, espero poder seguir el transcurso de esta aventura en futuros posts. ¡Que tengáis un &lt;strong&gt;buen día&lt;/strong&gt;!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Yo he venido aquí a hablar de mi libro</title>
-      <link>/2017/02/yo-he-venido-aqu%C3%AD-a-hablar-de-mi-libro/</link>
-      <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/2017/02/yo-he-venido-aqu%C3%AD-a-hablar-de-mi-libro/</guid>
-      <description>
-
-&lt;p&gt;¡Hola a todos! Sed bienvenidos a este blog.
-Llevaba un tiempo con el interés de hacerme un blog personal donde, como reza en el título venir &lt;strong&gt;a hablar de mi libro&lt;/strong&gt;, es decir, de cosas en general sin preocuparme demasiado. Y ya en el proceso aprender algo más de desarrollo web, vamos, un win/win que se dice.&lt;/p&gt;
-
-&lt;h3 id=&#34;que-me-voy-a-encontrar&#34;&gt;¿Que me voy a encontrar?&lt;/h3&gt;
-
-&lt;p&gt;Pues un poco de todo, desde posts hablando de &lt;strong&gt;ocio en general&lt;/strong&gt; (libros, pelis, juegos, música que me mole) a posts acerca de &lt;strong&gt;programación&lt;/strong&gt; o &lt;strong&gt;desarrollo de videojuegos&lt;/strong&gt; en el cual me encuentro inciandome en estos momentos.&lt;/p&gt;
-
-&lt;p&gt;Me gustaría compartir con vosotros tanto experiencias personales como pequeños proyectillos que me vayan surgiendo poco a poco. Pero esto último, imagino, ya se acabará viendo con el tiempo.&lt;/p&gt;
-
-&lt;h3 id=&#34;por-qué-hugo&#34;&gt;¿Por qué HUGO?&lt;/h3&gt;
-
-&lt;p&gt;Hechas las presentaciones hablemos un poco de desarrollo, mas concretamente de que lleva el blog por dentro. Aunque me gustaría dedicarle una entrada solamente a este tema así a bote pronto puedo contaros que este está hecho con &lt;a href=&#34;https://gohugo.io/&#34;&gt;HUGO&lt;/a&gt;. Un motor para la creación de webs estáticas (como esta) hecho en &lt;strong&gt;GoLang&lt;/strong&gt; (o Go a secas).&lt;/p&gt;
-
-&lt;p&gt;¿Por qué?
-Pues por tres simples razones:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Puede usarse con &lt;strong&gt;GitHub Pages&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Los posts se escriben en &lt;strong&gt;MarkDown&lt;/strong&gt; (indispensable para mí)&lt;/li&gt;
-&lt;li&gt;Posee una amplia variedad de plantillas de fácil configuración como esta que estoy usando. &lt;strong&gt;&lt;a href=&#34;https://themes.gohugo.io/hugo-tranquilpeak-theme/#documentation&#34;&gt;Tranquilpeak&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Estuve barajando un tiempo usar otros motores como &lt;strong&gt;Jekyll&lt;/strong&gt;, que está hecho en &lt;strong&gt;Ruby&lt;/strong&gt;. Pero lo que me llevó a decidirme finalmente por &lt;a href=&#34;https://gohugo.io/&#34;&gt;HUGO&lt;/a&gt; fue su genial documentación (La cual tenéis disponible pinchando en la palabra &amp;ldquo;Hugo&amp;rdquo;).&lt;/p&gt;
-
-&lt;p&gt;Esto ha sido todo por esta vez, no prometo regularidad alguna, pero pretendo actualizar esto de vez en cuando.
-&lt;strong&gt;¡Un saludo!&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     
