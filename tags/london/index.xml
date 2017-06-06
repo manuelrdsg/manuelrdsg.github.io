@@ -2,11 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>London on Manuel Rguez-Sánchez</title>
-    <link>/tags/london/index.xml</link>
+    <link>/tags/london/</link>
     <description>Recent content in London on Manuel Rguez-Sánchez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <atom:link href="/tags/london/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Mar 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/london/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>¡Conducen por la izquierda! - La Plaza</title>
@@ -14,41 +17,9 @@
       <pubDate>Sat, 25 Mar 2017 00:00:00 +0000</pubDate>
       
       <guid>/2017/03/conducen-por-la-izquierda---la-plaza/</guid>
-      <description>
-
-&lt;p&gt;¡Hola a &lt;strong&gt;todos&lt;/strong&gt;!&lt;/p&gt;
-
-&lt;p&gt;Hace no mucho me han confirmado que el año que viene (si todo va bien) estaré en &lt;strong&gt;Londres&lt;/strong&gt;, cursando mi &lt;strong&gt;último año de carrera&lt;/strong&gt;.
-Se me ha ocurrido que puede ser interesante relataros la aventura a lo largo de una serie de posts y de este modo, poder hacer retrospectiva cuando mi tiempo en Londres haya llegado a su fin.&lt;/p&gt;
-
-&lt;h2 id=&#34;estarás-contento-no&#34;&gt;&lt;em&gt;&amp;ldquo;¿Estarás contento, no? &amp;ldquo;&lt;/em&gt;&lt;/h2&gt;
-
-&lt;p&gt;Tras comunicar la noticia alguien me hizo la misma pregunta que reza en el título de la sección y me dejó bastante pensativo.&lt;/p&gt;
-
-&lt;p&gt;La respuesta normal sería &lt;em&gt;&amp;ldquo;Por supuesto!&amp;rdquo;&lt;/em&gt;, pero me temo que tuve que pensarlo. En en el fondo &lt;em&gt;&amp;ldquo;por supuesto&amp;rdquo;&lt;/em&gt; que estoy contento, pero la reacción inicial fue más miedo que otra cosa.&lt;/p&gt;
-
-&lt;p&gt;LLevo todo el año evitando el tema, a pesar de que quiero cambiar de sitio siempre es complicado salir de tu &lt;em&gt;&amp;ldquo;zona de confort&amp;rdquo;&lt;/em&gt;. El Erasmus era algo que &lt;em&gt;&amp;ldquo;estaba ahí&amp;rdquo;&lt;/em&gt;, de fondo. Si, lo había solicitado y sí, había mandado los papeles. Pero siempre con el pensamiento de &lt;em&gt;&amp;ldquo;total, es para el año que viene. Todavía queda&amp;rdquo;&lt;/em&gt;. Y pasar directamente de eso a &lt;em&gt;&amp;ldquo;el 15 de Mayo eliges las asignaturas&amp;rdquo;&lt;/em&gt; fue bastante abrumador.&lt;/p&gt;
-
-&lt;p&gt;El hecho de que sea Londres es otro añadido. Soy natural de Cádiz, que para los que no la conozcáis es una ciudad preciosa al sur de España en la que sus gentes tienen el don del optimismo a pesar de los últimos malos tiempos. Lo que nos concierne de todos modos es que Cádiz es sobre todo manejable, puedes estar en unos 30-40 min andando en cualquier lado.&lt;/p&gt;
-
-&lt;p&gt;Londres como podéis apreciar es la antítesis de todo esto y eso lo hace una experiencia mas aterradora, pero sobre todo más fructífera :)&lt;/p&gt;
-
-&lt;h2 id=&#34;y-ahora-qué&#34;&gt;¿Y ahora qué?&lt;/h2&gt;
-
-&lt;p&gt;El próximo objetivo es la firma de un &amp;ldquo;contrato de estudios&amp;rdquo; en el que especificar la duración de la estancia y las asignaturas a realizar.&lt;/p&gt;
-
-&lt;p&gt;Solo tengo 30 créditos optativos, así que tendré que barajar bien que quiero aprender mientras estoy en el extranjero. Como tal me gustaría centrarme en campos tan dispares como la &lt;em&gt;Ingeniería del Software&lt;/em&gt;, el &lt;em&gt;Desarrollo de Videojuegos&lt;/em&gt; o el &lt;em&gt;Desarrollo Web&lt;/em&gt;. En parte porque no tengo claro en que quiero enfocar mi futuro próximo, es por esto que barajo asignaturas como &lt;em&gt;High Level Game Development&lt;/em&gt;, &lt;em&gt;IT and Entrepreneurship&lt;/em&gt; y &lt;em&gt;Dependable Systems&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Una vez elegidas las asignaturas y la duración habrá que empezar a preparar cosas tales como la estancia y demás temas. Pero toca tomárselo con calma y pensar bien las cosas.&lt;/p&gt;
-
-&lt;p&gt;De momento aquí se queda lo que puedo contaros, espero poder seguir el transcurso de esta aventura en futuros posts. ¡Que tengáis un &lt;strong&gt;buen día&lt;/strong&gt;!&lt;/p&gt;
-
-&lt;h4 id=&#34;postscript&#34;&gt;&lt;em&gt;Postscript&lt;/em&gt;&lt;/h4&gt;
-
-&lt;p&gt;Como podéis apreciar, los comentarios ya están disponibles. Estos funcionan a través de &lt;strong&gt;Disqus&lt;/strong&gt;, os animo a comentar.&lt;/p&gt;
-
-&lt;p&gt;De todos modos, siempre podéis contactarme a través de mi cuenta de Twitter &lt;strong&gt;@manuelrdsg&lt;/strong&gt; o mi correo personal.&lt;/p&gt;
-</description>
+      <description>¡Hola a todos!
+Hace no mucho me han confirmado que el año que viene (si todo va bien) estaré en Londres, cursando mi último año de carrera. Se me ha ocurrido que puede ser interesante relataros la aventura a lo largo de una serie de posts y de este modo, poder hacer retrospectiva cuando mi tiempo en Londres haya llegado a su fin.
+&amp;ldquo;¿Estarás contento, no? &amp;ldquo; Tras comunicar la noticia alguien me hizo la misma pregunta que reza en el título de la sección y me dejó bastante pensativo.</description>
     </item>
     
   </channel>

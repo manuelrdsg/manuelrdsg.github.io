@@ -2,11 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Manuel Rguez-Sánchez</title>
-    <link>/page/index.xml</link>
+    <link>/page/</link>
     <description>Recent content in Pages on Manuel Rguez-Sánchez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <atom:link href="/page/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="/page/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>About</title>
@@ -14,22 +16,11 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/page/about/</guid>
-      <description>
-
-&lt;p&gt;I am Manuel, student at University of Cádiz.&lt;/p&gt;
-
-&lt;h2 id=&#34;current-work&#34;&gt;Current Work&lt;/h2&gt;
-
-&lt;p&gt;I am currently working as an intern on a software project at University of Cádiz. This project is called &amp;ldquo;&lt;strong&gt;GuessIt!&lt;/strong&gt;&amp;rdquo; and is an application for mobile platforms, mainly Android.&lt;/p&gt;
-
-&lt;p&gt;Tha aim of the project is achieve an app wich an student would use to learn languages like English or German.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/manuelrdsg/GuessItLanguageTrainer&#34;&gt;&lt;strong&gt;GitHub Repository&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;mail&#34;&gt;Mail&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;mailto:manuelrdsg@gmail.com&#34;&gt;&lt;strong&gt;manuelrdsg@gmail.com&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>I am Manuel, student at University of Cádiz.
+Current Work I am currently working as an intern on a software project at University of Cádiz. This project is called &amp;ldquo;GuessIt!&amp;rdquo; and is an application for mobile platforms, mainly Android.
+Tha aim of the project is achieve an app wich an student would use to learn languages like English or German.
+GitHub Repository
+Mail manuelrdsg@gmail.com</description>
     </item>
     
     <item>
@@ -38,18 +29,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/page/projects/</guid>
-      <description>
-
-&lt;h3 id=&#34;textadventures&#34;&gt;TextAdventures&lt;/h3&gt;
-
-&lt;p&gt;Developed by me and three friends (&lt;a href=&#34;https://github.com/luisrozo&#34;&gt;&lt;em&gt;Luis Gonzaga Rozo Bueno&lt;/em&gt;&lt;/a&gt;, &lt;a href=&#34;https://github.com/juanrodicio&#34;&gt;&lt;em&gt;Juan Antonio Rodicio Lopez&lt;/em&gt;&lt;/a&gt; and &lt;a href=&#34;https://github.com/avleze&#34;&gt;&lt;em&gt;Antonio Velez Estevez&lt;/em&gt;&lt;/a&gt;).&lt;/p&gt;
-
-&lt;p&gt;This was our first game, we wanted to made a text-based game stringly inspired by other similar games such as &lt;em&gt;Zork&lt;/em&gt;. So we chose &lt;em&gt;Java&lt;/em&gt; as our language and we focused on the design, usign &lt;em&gt;Design Patterns&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;If You want to know more about it, you could check out the &lt;a href=&#34;https://github.com/manuelrdsg/TextAdventures/wiki&#34;&gt;&lt;strong&gt;wiki&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/manuelrdsg/TextAdventures/&#34;&gt;&lt;strong&gt;GitHub Repository&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description>TextAdventures Developed by me and three friends (Luis Gonzaga Rozo Bueno, Juan Antonio Rodicio Lopez and Antonio Velez Estevez).
+This was our first game, we wanted to made a text-based game strongly inspired by other similar games such as Zork. So we chose Java as our language and we focused on the design, usign Design Patterns.
+If You want to know more about it, you could check out the wiki.</description>
     </item>
     
   </channel>
