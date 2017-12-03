@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Manuel Rguez-Sánchez</title>
-    <link>/</link>
+    <link>http://manuelrdsg.github.io/</link>
     <description>Recent content on Manuel Rguez-Sánchez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Tue, 05 Dec 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://manuelrdsg.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>De la ventana a la manzana</title>
-      <link>/2017/12/de-la-ventana-a-la-manzana/</link>
+      <link>http://manuelrdsg.github.io/2017/12/de-la-ventana-a-la-manzana/</link>
       <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/2017/12/de-la-ventana-a-la-manzana/</guid>
+      <guid>http://manuelrdsg.github.io/2017/12/de-la-ventana-a-la-manzana/</guid>
       <description>Veréis, en torno a Octubre-Septiembre del año pasado me invitaron a la pasada edición de Lambda World, un gran congreso centrado en el mundo de la programación funcional del que puede que hablemos en alguna que otra entrada.
 Esta, era la primera vez que pisaba un congreso de la profesión y al margen de lo interesante de las ponencias y de las personas que conoces en este tipo de eventos hubo algo que me llamó bastante la atención, la gran mayoría (así a ojímetro) de los asistentes al congreso utilizaban OSX como plataforma de desarrollo.</description>
     </item>
     
     <item>
       <title>¡Conducen por la izquierda!</title>
-      <link>/2017/03/conducen-por-la-izquierda/</link>
+      <link>http://manuelrdsg.github.io/2017/03/conducen-por-la-izquierda/</link>
       <pubDate>Sat, 25 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>/2017/03/conducen-por-la-izquierda/</guid>
+      <guid>http://manuelrdsg.github.io/2017/03/conducen-por-la-izquierda/</guid>
       <description>¡Hola a todos!
 Hace no mucho me han confirmado que el año que viene (si todo va bien) estaré en Londres, cursando mi último año de carrera. Se me ha ocurrido que puede ser interesante relataros la aventura a lo largo de una serie de posts y de este modo, poder hacer retrospectiva cuando mi tiempo en Londres haya llegado a su fin.
 “¿Estarás contento, no? “ Tras comunicar la noticia alguien me hizo la misma pregunta que reza en el título de la sección y me dejó bastante pensativo.</description>
@@ -34,20 +34,20 @@ Hace no mucho me han confirmado que el año que viene (si todo va bien) estaré 
     
     <item>
       <title>Yo he venido aquí a hablar de mi libro</title>
-      <link>/2015/05/yo-he-venido-aqu%C3%AD-a-hablar-de-mi-libro/</link>
+      <link>http://manuelrdsg.github.io/2015/05/yo-he-venido-aqu%C3%AD-a-hablar-de-mi-libro/</link>
       <pubDate>Wed, 13 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>/2015/05/yo-he-venido-aqu%C3%AD-a-hablar-de-mi-libro/</guid>
+      <guid>http://manuelrdsg.github.io/2015/05/yo-he-venido-aqu%C3%AD-a-hablar-de-mi-libro/</guid>
       <description>¡Hola a todos! Sed bienvenidos a este blog. Llevaba un tiempo con el interés de hacerme un blog personal donde, como reza en el título venir a hablar de mi libro, es decir, de cosas en general sin preocuparme demasiado. Y ya en el proceso aprender algo más de desarrollo web, vamos, un win/win que se dice.
 ¿Que me voy a encontrar? Pues un poco de todo, desde posts hablando de ocio en general (libros, pelis, juegos, música que me mole) a posts acerca de programación o desarrollo de videojuegos en el cual me encuentro inciandome en estos momentos.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>/page/about/</link>
+      <link>http://manuelrdsg.github.io/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/page/about/</guid>
+      <guid>http://manuelrdsg.github.io/page/about/</guid>
       <description>Hi! I am Manuel, student at Kingston University.
  CV  Work Currently I&amp;rsquo;m finishing my degree in Computer Science at Kinston University. Focusing on Software Engineering and Web Development.
 Past Work I worked as an intern on a software project at University of Cádiz. That project is called “GuessIt!” and is an application for mobile platforms, mainly Android.
@@ -56,10 +56,10 @@ The aim of the project is achieve an app which an student would use to learn lan
     
     <item>
       <title>Personal Projects</title>
-      <link>/page/projects/</link>
+      <link>http://manuelrdsg.github.io/page/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/page/projects/</guid>
+      <guid>http://manuelrdsg.github.io/page/projects/</guid>
       <description>NetflaxCalendar Developed using Python with Dropbox, Twitter and GoogleCalendar API&amp;rsquo;s and Celery.
 If you have ever missed the publication of your favorite series on Netflix, the aim of the app is to add an event to a Calendar in GoogleCalendar with the publication date of the series on Netflix. To achieve that it uses Netflix twitter bot&amp;rsquo;s (Such as NetflixBot or ElGallodeNetflix) tweets ans every time a new tweet is published it adds an event to your series calendar.</description>
     </item>

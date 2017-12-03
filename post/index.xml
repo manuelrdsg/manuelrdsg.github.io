@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Manuel Rguez-Sánchez</title>
-    <link>/post/</link>
+    <link>http://manuelrdsg.github.io/post/</link>
     <description>Recent content in Posts on Manuel Rguez-Sánchez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Tue, 05 Dec 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://manuelrdsg.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>De la ventana a la manzana</title>
-      <link>/2017/12/de-la-ventana-a-la-manzana/</link>
+      <link>http://manuelrdsg.github.io/2017/12/de-la-ventana-a-la-manzana/</link>
       <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/2017/12/de-la-ventana-a-la-manzana/</guid>
+      <guid>http://manuelrdsg.github.io/2017/12/de-la-ventana-a-la-manzana/</guid>
       <description>Veréis, en torno a Octubre-Septiembre del año pasado me invitaron a la pasada edición de Lambda World, un gran congreso centrado en el mundo de la programación funcional del que puede que hablemos en alguna que otra entrada.
 Esta, era la primera vez que pisaba un congreso de la profesión y al margen de lo interesante de las ponencias y de las personas que conoces en este tipo de eventos hubo algo que me llamó bastante la atención, la gran mayoría (así a ojímetro) de los asistentes al congreso utilizaban OSX como plataforma de desarrollo.</description>
     </item>
     
     <item>
       <title>¡Conducen por la izquierda!</title>
-      <link>/2017/03/conducen-por-la-izquierda/</link>
+      <link>http://manuelrdsg.github.io/2017/03/conducen-por-la-izquierda/</link>
       <pubDate>Sat, 25 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>/2017/03/conducen-por-la-izquierda/</guid>
+      <guid>http://manuelrdsg.github.io/2017/03/conducen-por-la-izquierda/</guid>
       <description>¡Hola a todos!
 Hace no mucho me han confirmado que el año que viene (si todo va bien) estaré en Londres, cursando mi último año de carrera. Se me ha ocurrido que puede ser interesante relataros la aventura a lo largo de una serie de posts y de este modo, poder hacer retrospectiva cuando mi tiempo en Londres haya llegado a su fin.
 “¿Estarás contento, no? “ Tras comunicar la noticia alguien me hizo la misma pregunta que reza en el título de la sección y me dejó bastante pensativo.</description>
@@ -34,10 +34,10 @@ Hace no mucho me han confirmado que el año que viene (si todo va bien) estaré 
     
     <item>
       <title>Yo he venido aquí a hablar de mi libro</title>
-      <link>/2015/05/yo-he-venido-aqu%C3%AD-a-hablar-de-mi-libro/</link>
+      <link>http://manuelrdsg.github.io/2015/05/yo-he-venido-aqu%C3%AD-a-hablar-de-mi-libro/</link>
       <pubDate>Wed, 13 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>/2015/05/yo-he-venido-aqu%C3%AD-a-hablar-de-mi-libro/</guid>
+      <guid>http://manuelrdsg.github.io/2015/05/yo-he-venido-aqu%C3%AD-a-hablar-de-mi-libro/</guid>
       <description>¡Hola a todos! Sed bienvenidos a este blog. Llevaba un tiempo con el interés de hacerme un blog personal donde, como reza en el título venir a hablar de mi libro, es decir, de cosas en general sin preocuparme demasiado. Y ya en el proceso aprender algo más de desarrollo web, vamos, un win/win que se dice.
 ¿Que me voy a encontrar? Pues un poco de todo, desde posts hablando de ocio en general (libros, pelis, juegos, música que me mole) a posts acerca de programación o desarrollo de videojuegos en el cual me encuentro inciandome en estos momentos.</description>
     </item>

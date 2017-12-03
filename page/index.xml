@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Manuel Rguez-Sánchez</title>
-    <link>/page/</link>
+    <link>http://manuelrdsg.github.io/page/</link>
     <description>Recent content in Pages on Manuel Rguez-Sánchez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     
-	<atom:link href="/page/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://manuelrdsg.github.io/page/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>/page/about/</link>
+      <link>http://manuelrdsg.github.io/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/page/about/</guid>
+      <guid>http://manuelrdsg.github.io/page/about/</guid>
       <description>Hi! I am Manuel, student at Kingston University.
  CV  Work Currently I&amp;rsquo;m finishing my degree in Computer Science at Kinston University. Focusing on Software Engineering and Web Development.
 Past Work I worked as an intern on a software project at University of Cádiz. That project is called “GuessIt!” and is an application for mobile platforms, mainly Android.
@@ -24,10 +24,10 @@ The aim of the project is achieve an app which an student would use to learn lan
     
     <item>
       <title>Personal Projects</title>
-      <link>/page/projects/</link>
+      <link>http://manuelrdsg.github.io/page/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/page/projects/</guid>
+      <guid>http://manuelrdsg.github.io/page/projects/</guid>
       <description>NetflaxCalendar Developed using Python with Dropbox, Twitter and GoogleCalendar API&amp;rsquo;s and Celery.
 If you have ever missed the publication of your favorite series on Netflix, the aim of the app is to add an event to a Calendar in GoogleCalendar with the publication date of the series on Netflix. To achieve that it uses Netflix twitter bot&amp;rsquo;s (Such as NetflixBot or ElGallodeNetflix) tweets ans every time a new tweet is published it adds an event to your series calendar.</description>
     </item>
