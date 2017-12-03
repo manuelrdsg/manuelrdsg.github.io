@@ -3,7 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/2017/03/conducen-por-la-izquierda---la-plaza/</loc>
+    <loc>/2017/12/de-la-ventana-a-la-manzana/</loc>
+    <lastmod>2017-12-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2017/03/conducen-por-la-izquierda/</loc>
     <lastmod>2017-03-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -14,6 +19,12 @@
   
   <url>
     <loc>/page/about/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/apple/</loc>
+    <lastmod>2017-12-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -33,13 +44,13 @@
   </url>
   
   <url>
-    <loc>/tags/erasmus/</loc>
+    <loc>/categories/erasmus/</loc>
     <lastmod>2017-03-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/erasmus/</loc>
+    <loc>/tags/erasmus/</loc>
     <lastmod>2017-03-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -58,7 +69,13 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2017-03-25T00:00:00+00:00</lastmod>
+    <lastmod>2017-12-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/microsoft/</loc>
+    <lastmod>2017-12-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -72,14 +89,32 @@
   </url>
   
   <url>
+    <loc>/tags/portatil/</loc>
+    <lastmod>2017-12-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/post/</loc>
-    <lastmod>2017-03-25T00:00:00+00:00</lastmod>
+    <lastmod>2017-12-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2015-05-13T00:00:00+00:00</lastmod>
+    <lastmod>2017-12-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/tecnologia/</loc>
+    <lastmod>2017-12-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/universidad/</loc>
+    <lastmod>2017-12-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

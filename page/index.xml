@@ -16,11 +16,10 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/page/about/</guid>
-      <description>I am Manuel, student at University of Cádiz.
-Current Work I am currently working as an intern on a software project at University of Cádiz. This project is called “GuessIt!” and is an application for mobile platforms, mainly Android.
-The aim of the project is achieve an app witch an student would use to learn languages like English or German.
-GitHub Repository
-Mail manuelrdsg@gmail.com</description>
+      <description>Hi! I am Manuel, student at Kingston University.
+ CV  Work Currently I&amp;rsquo;m finishing my degree in Computer Science at Kinston University. Focusing on Software Engineering and Web Development.
+Past Work I worked as an intern on a software project at University of Cádiz. That project is called “GuessIt!” and is an application for mobile platforms, mainly Android.
+The aim of the project is achieve an app which an student would use to learn languages like English or German.</description>
     </item>
     
     <item>
@@ -29,9 +28,8 @@ Mail manuelrdsg@gmail.com</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/page/projects/</guid>
-      <description>TextAdventures Developed by me and three friends (Luis Gonzaga Rozo Bueno, Juan Antonio Rodicio Lopez and Antonio Velez Estevez).
-This was our first game, we wanted to made a text-based game strongly inspired by other similar games such as Zork. So we chose Java as our language and we focused on the design, using Design Patterns.
-If You want to know more about it, you could check out the wiki.</description>
+      <description>NetflaxCalendar Developed using Python with Dropbox, Twitter and GoogleCalendar API&amp;rsquo;s and Celery.
+If you have ever missed the publication of your favorite series on Netflix, the aim of the app is to add an event to a Calendar in GoogleCalendar with the publication date of the series on Netflix. To achieve that it uses Netflix twitter bot&amp;rsquo;s (Such as NetflixBot or ElGallodeNetflix) tweets ans every time a new tweet is published it adds an event to your series calendar.</description>
     </item>
     
   </channel>

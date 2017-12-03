@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Apple on Manuel Rguez-Sánchez</title>
+    <link>/tags/apple/</link>
+    <description>Recent content in Apple on Manuel Rguez-Sánchez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Tue, 05 Dec 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/apple/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>De la ventana a la manzana</title>
+      <link>/2017/12/de-la-ventana-a-la-manzana/</link>
+      <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/12/de-la-ventana-a-la-manzana/</guid>
+      <description>Veréis, en torno a Octubre-Septiembre del año pasado me invitaron a la pasada edición de Lambda World, un gran congreso centrado en el mundo de la programación funcional del que puede que hablemos en alguna que otra entrada.
+Esta, era la primera vez que pisaba un congreso de la profesión y al margen de lo interesante de las ponencias y de las personas que conoces en este tipo de eventos hubo algo que me llamó bastante la atención, la gran mayoría (así a ojímetro) de los asistentes al congreso utilizaban OSX como plataforma de desarrollo.</description>
+    </item>
+    
+  </channel>
+</rss>
