@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://manuelrdsg.github.io/2018/04/herodemo-a-glsl-shaders-project/</loc>
+    <lastmod>2018-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://manuelrdsg.github.io/2017/12/de-la-ventana-a-la-manzana/</loc>
     <lastmod>2017-12-05T00:00:00+00:00</lastmod>
   </url>
@@ -33,13 +38,25 @@
   </url>
   
   <url>
-    <loc>http://manuelrdsg.github.io/tags/bienvenida/</loc>
-    <lastmod>2015-05-13T00:00:00+00:00</lastmod>
+    <loc>http://manuelrdsg.github.io/tags/c&#43;&#43;/</loc>
+    <lastmod>2018-04-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://manuelrdsg.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://manuelrdsg.github.io/tags/dev/</loc>
+    <lastmod>2018-04-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://manuelrdsg.github.io/categories/dev/</loc>
+    <lastmod>2018-04-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -69,13 +86,19 @@
   
   <url>
     <loc>http://manuelrdsg.github.io/</loc>
-    <lastmod>2017-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://manuelrdsg.github.io/tags/microsoft/</loc>
     <lastmod>2017-12-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://manuelrdsg.github.io/tags/opengl/</loc>
+    <lastmod>2018-04-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -96,7 +119,13 @@
   
   <url>
     <loc>http://manuelrdsg.github.io/post/</loc>
-    <lastmod>2017-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://manuelrdsg.github.io/tags/shaders/</loc>
+    <lastmod>2018-04-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -115,6 +144,12 @@
   <url>
     <loc>http://manuelrdsg.github.io/tags/universidad/</loc>
     <lastmod>2017-12-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://manuelrdsg.github.io/tags/welcome/</loc>
+    <lastmod>2015-05-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

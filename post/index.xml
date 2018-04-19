@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Manuel Rguez-Sánchez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Tue, 05 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Apr 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://manuelrdsg.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>HeroDemo a GLSL Shaders project</title>
+      <link>http://manuelrdsg.github.io/2018/04/herodemo-a-glsl-shaders-project/</link>
+      <pubDate>Fri, 20 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://manuelrdsg.github.io/2018/04/herodemo-a-glsl-shaders-project/</guid>
+      <description>Through the last year I have been learning OpenGL and Shader programming with GLSL. I started learning the basics of OpenGL, how to render objects, how to place them in the scene&amp;hellip; and also the basics of shader programming, how the pipeline works and how to render basic effects like directional or ambient lightning.
+After months learning OpenGL and GLSL I have developed this example project called Hero Demo it is a night scene, with particles effect, SkyBoxing, per-fragment point lightning, water rendering&amp;hellip;</description>
+    </item>
     
     <item>
       <title>De la ventana a la manzana</title>

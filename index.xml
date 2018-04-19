@@ -6,10 +6,20 @@
     <description>Recent content on Manuel Rguez-Sánchez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Tue, 05 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Apr 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://manuelrdsg.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>HeroDemo a GLSL Shaders project</title>
+      <link>http://manuelrdsg.github.io/2018/04/herodemo-a-glsl-shaders-project/</link>
+      <pubDate>Fri, 20 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://manuelrdsg.github.io/2018/04/herodemo-a-glsl-shaders-project/</guid>
+      <description>Through the last year I have been learning OpenGL and Shader programming with GLSL. I started learning the basics of OpenGL, how to render objects, how to place them in the scene&amp;hellip; and also the basics of shader programming, how the pipeline works and how to render basic effects like directional or ambient lightning.
+After months learning OpenGL and GLSL I have developed this example project called Hero Demo it is a night scene, with particles effect, SkyBoxing, per-fragment point lightning, water rendering&amp;hellip;</description>
+    </item>
     
     <item>
       <title>De la ventana a la manzana</title>
@@ -60,8 +70,11 @@ The aim of the project is achieve an app which an student would use to learn lan
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://manuelrdsg.github.io/page/projects/</guid>
-      <description>NetflaxCalendar Developed using Python with Dropbox, Twitter and GoogleCalendar API&amp;rsquo;s and Celery.
-If you have ever missed the publication of your favorite series on Netflix, the aim of the app is to add an event to a Calendar in GoogleCalendar with the publication date of the series on Netflix. To achieve that it uses Netflix twitter bot&amp;rsquo;s (Such as NetflixBot or ElGallodeNetflix) tweets ans every time a new tweet is published it adds an event to your series calendar.</description>
+      <description>Hero Demo Developed using C++ with OpenGL and GLSL Shaders.
+Night scene developed with GLSL Shaders, it includes effects like per-fragment point lightning, directional and ambient lightning, particle effects, water rendering, vertex shader water animation, skyboxing, texturing&amp;hellip;
+  GitHub Repository.
+NetflaxCalendar Developed using Python with Dropbox, Twitter and GoogleCalendar API&amp;rsquo;s and Celery.
+If you have ever missed the publication of your favorite series on Netflix, the aim of the app is to add an event to a Calendar in GoogleCalendar with the publication date of the series on Netflix.</description>
     </item>
     
   </channel>
