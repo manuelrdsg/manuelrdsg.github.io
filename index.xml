@@ -72,7 +72,8 @@ The aim of the project is achieve an app which an student would use to learn lan
       <guid>http://manuelrdsg.github.io/page/projects/</guid>
       <description>Hero Demo Developed using C++ with OpenGL and GLSL Shaders.
 Night scene developed with GLSL Shaders, it includes effects like per-fragment point lightning, directional and ambient lightning, particle effects, water rendering, vertex shader water animation, skyboxing, texturing&amp;hellip;
-  GitHub Repository.
+  Post.
+GitHub Repository.
 NetflaxCalendar Developed using Python with Dropbox, Twitter and GoogleCalendar API&amp;rsquo;s and Celery.
 If you have ever missed the publication of your favorite series on Netflix, the aim of the app is to add an event to a Calendar in GoogleCalendar with the publication date of the series on Netflix.</description>
     </item>
