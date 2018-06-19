@@ -21,27 +21,27 @@
     
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="generator" content="Hugo 0.26">
+    <meta name="generator" content="Hugo 0.42.1 with theme Tranquilpeak 0.4.3-BETA">
     <title>HeroDemo a GLSL Shaders project</title>
     <meta name="author" content="Manuel Rodríguez-Sánchez">
     <meta name="keywords" content="">
 
-    <link rel="icon" href="/favicon.png">
+    <link rel="icon" href="favicon.ico">
     
 
     
-    <meta name="description" content="Through the last year I have been learning OpenGL and Shader programming with GLSL. I started learning the basics of OpenGL, how to render objects, how to place them in the scene&hellip; and also the basics of shader programming, how the pipeline works and how to render basic effects like directional or ambient lightning.
-After months learning OpenGL and GLSL I have developed this example project called Hero Demo it is a night scene, with particles effect, SkyBoxing, per-fragment point lightning, water rendering&hellip;">
-    <meta property="og:description" content="Through the last year I have been learning OpenGL and Shader programming with GLSL. I started learning the basics of OpenGL, how to render objects, how to place them in the scene&hellip; and also the basics of shader programming, how the pipeline works and how to render basic effects like directional or ambient lightning.
-After months learning OpenGL and GLSL I have developed this example project called Hero Demo it is a night scene, with particles effect, SkyBoxing, per-fragment point lightning, water rendering&hellip;">
+    <meta name="description" content="Through the last year I have been learning OpenGL and Shader programming with GLSL. I started learning the basics of OpenGL, how to render objects, how to place them in the scene; and also the basics of shader programming, how the pipeline works and how to render basic effects like directional or ambient lightning.
+After months learning OpenGL and GLSL I have developed this example project called Hero Demo it is a night scene, with particles effect, SkyBoxing, per-fragment point lightning, water rendering">
+    <meta property="og:description" content="Through the last year I have been learning OpenGL and Shader programming with GLSL. I started learning the basics of OpenGL, how to render objects, how to place them in the scene; and also the basics of shader programming, how the pipeline works and how to render basic effects like directional or ambient lightning.
+After months learning OpenGL and GLSL I have developed this example project called Hero Demo it is a night scene, with particles effect, SkyBoxing, per-fragment point lightning, water rendering">
     <meta property="og:type" content="blog">
     <meta property="og:title" content="HeroDemo a GLSL Shaders project">
     <meta property="og:url" content="/2018/04/herodemo-a-glsl-shaders-project/">
     <meta property="og:site_name" content="Manuel Rguez-Sánchez">
     <meta name="twitter:card" content="summary">
     <meta name="twitter:title" content="Manuel Rguez-Sánchez">
-    <meta name="twitter:description" content="Through the last year I have been learning OpenGL and Shader programming with GLSL. I started learning the basics of OpenGL, how to render objects, how to place them in the scene&hellip; and also the basics of shader programming, how the pipeline works and how to render basic effects like directional or ambient lightning.
-After months learning OpenGL and GLSL I have developed this example project called Hero Demo it is a night scene, with particles effect, SkyBoxing, per-fragment point lightning, water rendering&hellip;">
+    <meta name="twitter:description" content="Through the last year I have been learning OpenGL and Shader programming with GLSL. I started learning the basics of OpenGL, how to render objects, how to place them in the scene; and also the basics of shader programming, how the pipeline works and how to render basic effects like directional or ambient lightning.
+After months learning OpenGL and GLSL I have developed this example project called Hero Demo it is a night scene, with particles effect, SkyBoxing, per-fragment point lightning, water rendering">
     
       <meta name="twitter:creator" content="@manuelrdsg">
     
@@ -65,14 +65,15 @@ After months learning OpenGL and GLSL I have developed this example project call
     
 
     
-    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
-    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.4/jquery.fancybox.css" />
-    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.4/helpers/jquery.fancybox-thumbs.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.4/jquery.fancybox.min.css" integrity="sha256-vuXZ9LGmmwtjqFX1F+EKin1ThZMub58gKULUyf0qECk=" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.4/helpers/jquery.fancybox-thumbs.min.css" integrity="sha256-SEa4XYAHihTcEP1f5gARTB2K26Uk8PsndQYHQC1f4jU=" crossorigin="anonymous" />
     
     
-    <link rel="stylesheet" href="/css/style-gwlo24d2hxipxk8bi1sxik0zhlpn9t7ebcmgp9kubmmcjfzlavuyhvbqumhn.min.css" />
+    <link rel="stylesheet" href="/css/style-jsjn0006wyhpyzivf6yceb31gvpjatbcs3qzjvlumobfnugccvobqwxnnaj8.min.css" />
     
     
+
     
       
     
@@ -110,7 +111,7 @@ After months learning OpenGL and GLSL I have developed this example project call
         </a>
         <h4 class="sidebar-profile-name">Manuel Rodríguez-Sánchez</h4>
         
-          <h5 class="sidebar-profile-bio">Software Engineer. Currently studying at Kingston University.</h5>
+          <h5 class="sidebar-profile-bio">Software Engineer in progress. Currently studying at Kingston University.</h5>
         
       </div>
     
@@ -166,12 +167,13 @@ After months learning OpenGL and GLSL I have developed this example project call
     </a>
   </li>
 
+
     </ul>
     <ul class="sidebar-buttons">
       
   <li class="sidebar-button">
     
-      <a class="sidebar-button-link " href="https://twitter.com/manuelrdsg" target="_blank">
+      <a class="sidebar-button-link " href="https://twitter.com/manuelrdsg" target="_blank" rel="noopener">
     
       <i class="sidebar-button-icon fa fa-lg fa-twitter"></i>
       
@@ -181,7 +183,7 @@ After months learning OpenGL and GLSL I have developed this example project call
 
   <li class="sidebar-button">
     
-      <a class="sidebar-button-link " href="https://www.linkedin.com/in/manuelrdsg" target="_blank">
+      <a class="sidebar-button-link " href="https://www.linkedin.com/in/manuelrdsg" target="_blank" rel="noopener">
     
       <i class="sidebar-button-icon fa fa-lg fa-linkedin"></i>
       
@@ -191,13 +193,14 @@ After months learning OpenGL and GLSL I have developed this example project call
 
   <li class="sidebar-button">
     
-      <a class="sidebar-button-link " href="https://github.com/manuelrdsg" target="_blank">
+      <a class="sidebar-button-link " href="https://github.com/manuelrdsg" target="_blank" rel="noopener">
     
       <i class="sidebar-button-icon fa fa-lg fa-github"></i>
       
       <span class="sidebar-button-desc">GitHub</span>
     </a>
   </li>
+
 
     </ul>
     <ul class="sidebar-buttons">
@@ -212,6 +215,7 @@ After months learning OpenGL and GLSL I have developed this example project call
     </a>
   </li>
 
+
     </ul>
   </div>
 </nav>
@@ -219,7 +223,7 @@ After months learning OpenGL and GLSL I have developed this example project call
       
   <div class="post-header-cover
               text-center
-              "
+              post-header-cover--full"
        style="background-image:url('http://res.cloudinary.com/manuelrdsg/image/upload/v1524149281/HeroDemo.png')"
        data-behavior="4">
     
@@ -239,15 +243,16 @@ After months learning OpenGL and GLSL I have developed this example project call
       HeroDemo a GLSL Shaders project
     </h1>
   
+  
   <div class="postShorten-meta post-meta">
-  
-    <time itemprop="datePublished" datetime="2018-04-20T00:00:00Z">
-      
-   20, 2018
+    
+      <time itemprop="datePublished" datetime="2018-04-23T00:00:00Z">
+        
+   23, 2018
 
-    </time>
-  
-  
+      </time>
+    
+    
   
   
     <span></span>
@@ -256,8 +261,7 @@ After months learning OpenGL and GLSL I have developed this example project call
     
   
 
-
-</div>
+  </div>
 
 </div>
           
@@ -265,34 +269,19 @@ After months learning OpenGL and GLSL I have developed this example project call
             <div class="main-content-wrap">
               
 
-<p>Through the last year I have been learning <em>OpenGL</em> and Shader programming with <em>GLSL</em>. I started learning the basics of OpenGL, how to render objects, how to place them in the scene&hellip; and also the basics of shader programming, how the pipeline works and how to render basic effects like directional or ambient lightning.</p>
+<p>Through the last year I have been learning OpenGL and Shader programming with GLSL. I started learning the basics of OpenGL, how to render objects, how to place them in the scene; and also the basics of shader programming, how the pipeline works and how to render basic effects like directional or ambient lightning.</p>
 
-<p>After months learning <em>OpenGL</em> and <em>GLSL</em> I have developed this example project called <strong>Hero Demo</strong> it is a night scene, with particles effect, SkyBoxing, per-fragment point lightning, water rendering&hellip;</p>
+<p>After months learning OpenGL and GLSL I have developed this example project called Hero Demo it is a night scene, with particles effect, SkyBoxing, per-fragment point lightning, water rendering</p>
 
-<p>Let&rsquo;s take a closer look at the implementation and all the effects added to the scene.</p>
+<p>Let&rsquo;s take a closer look at the implementation and all the effects added to the scene</p>
 
 <h3 id="scene">Scene</h3>
 
-<p>The main idea was to develop a night scene, so the lightning effects would be noticeable. So I created an island terrain using a <em>PNG</em> heightmap. I used one heightmap I have downloaded from the internet as a template and edited it using Photoshop.</p>
+<p>The main idea was to develop a night scene, so the lightning effects would be noticeable. So I created an island terrain using a PNG heightmap. I used one heightmap I have downloaded from the internet as a template and edited it using Photoshop.</p>
 
-<p>The <em>heightmap</em> for the terrain:</p>
+<p>The heightmap for the terrain:</p>
 
 
- 
-  
-  
-  
-  
-    
-      
-    
-  
-    
-      
-    
-  
-    
-  
 
  
   
@@ -319,12 +308,10 @@ After months learning OpenGL and GLSL I have developed this example project call
   
 </div>
 
-  <div style="clear:both;"></div>
 
+<p>To that terrain I added, a Cabin, Pier, Bushes, Lamps and a firepit model. Most of them were downloaded free of charge from <a href="https://www.turbosquid.com/">TurboSquid</a> a 3D model database that I highly recommend. All of them were properly textured before place them in the scene.</p>
 
-<p>To that terrain I added, a Cabin, Pier, Bushes, Lamps and a firepit model. Most of them were downloaded free of charge from <a href="https://www.turbosquid.com/"><em>TurboSquid</em></a> a 3D model database that I highly recommend. All of them were properly textured before place them in the scene.</p>
-
-<p>The <em>models</em> used for the scene:</p>
+<p>The models used for the scene were:</p>
 
 <p>
 
@@ -450,25 +437,9 @@ After months learning OpenGL and GLSL I have developed this example project call
 </div>
 
   <div style="clear:both;"></div>
+</p>
 
 
- 
-  
-  
-  
-  
-    
-  
-    
-      
-    
-  
-    
-      
-    
-  
-    
-  
 
  
   
@@ -495,8 +466,6 @@ After months learning OpenGL and GLSL I have developed this example project call
   
 </div>
 
-  <div style="clear:both;"></div>
-</p>
 
 <h3 id="shaders">Shaders</h3>
 
@@ -506,7 +475,7 @@ After months learning OpenGL and GLSL I have developed this example project call
 
 <h4 id="basic-shader">Basic Shader</h4>
 
-<p>Used fot the effects applied only to the models rendered in the scene. Here I have implemented the fog effect and the per-fragment point lightning for the objects. It also contains directional and ambient lightning effects. Here you can see a Snippet about how the Ambient, Directional and Per-Fragment Point Lightning was implemented.</p>
+<p>Used for the effects applied only to the models rendered in the scene. Here I have implemented the fog effect and the per-fragment point lightning for the objects. It also contains directional and ambient lightning effects. Here you can see a Snippet about how the Ambient, Directional and Per-Fragment Point Lightning was implemented.</p>
 
 
 
@@ -526,14 +495,12 @@ After months learning OpenGL and GLSL I have developed this example project call
   
     
   
-  
-    
   
 
 <figure class="codeblock codeblock--tabbed">
   <figcaption>
     
-      <span><a href="Shader">Basic</a></span>
+      <span>Shader</span>
     
     <ul class="tabs">
       
@@ -546,17 +513,15 @@ After months learning OpenGL and GLSL I have developed this example project call
   <div class="tabs-content">
     
       
-      <figure class="highlight vertex" style="display: block;">   
+      <figure class="highlight language-vertex" style="display: block;">   
         <table>
           <tbody>
             <tr>
               <td class="gutter">
-                <pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br></pre>
+                <pre><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br></pre>
               </td>
               <td class="code">
-                <pre class="vertex code-highlight">// ...
-
-vec4 AmbientLight(AMBIENT light)
+                <pre class="code-highlight language-vertex"><code class="vertex">vec4 AmbientLight(AMBIENT light)
 {
 // Calculate Ambient Light
 return vec4(materialAmbient \* light.color, 1);
@@ -568,8 +533,8 @@ vec4 DirectionalLight(DIRECTIONAL light)
 vec4 color = vec4(0, 0, 0, 0);
 vec3 L = normalize(mat3(matrixView) _ light.direction);
 float NdotL = dot(normal, L);
-if (NdotL &gt; 0)
-color &#43;= vec4(materialDiffuse _ light.diffuse, 1) \* NdotL;
+if (NdotL &amp;gt; 0)
+color &amp;#43;= vec4(materialDiffuse _ light.diffuse, 1) \* NdotL;
 return color;
 }
 
@@ -582,15 +547,13 @@ void main(void)
     	// calculate light
     color = vec4(0, 0, 0, 1);
     if (lightAmbient.on == 1)
-    	color &#43;= AmbientLight(lightAmbient);
+    	color &amp;#43;= AmbientLight(lightAmbient);
     if (lightDir.on == 1)
-    	color &#43;= DirectionalLight(lightDir);
+    	color &amp;#43;= DirectionalLight(lightDir);
 
 //...
 
-}
-
-    </pre>
+}</code></pre>
               </td>
             </tr>
           </tbody>
@@ -598,32 +561,30 @@ void main(void)
       </figure>
     
       
-      <figure class="highlight fragment" style="display: none;">   
+      <figure class="highlight language-fragment" style="display: none;">   
         <table>
           <tbody>
             <tr>
               <td class="gutter">
-                <pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br></pre>
+                <pre><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br><span>35</span><br><span>36</span><br><span>37</span><br><span>38</span><br><span>39</span><br><span>40</span><br><span>41</span><br><span>42</span><br><span>43</span><br></pre>
               </td>
               <td class="code">
-                <pre class="fragment code-highlight">//...
-
-vec4 compPoint(vec3 materialDiffuse, vec3 materialSpecular, float materialShininess, POINT light)
+                <pre class="code-highlight language-fragment"><code class="fragment">vec4 compPoint(vec3 materialDiffuse, vec3 materialSpecular, float materialShininess, POINT light)
 {
 vec4 result = vec4(0, 0, 0, 1);
 
     // diffuse
     vec3 L = normalize(matrixView * vec4(light.position, 1) - position).xyz;
     float NdotL = dot(L, normal.xyz);
-    if (NdotL &gt; 0)
-    	result &#43;= vec4(light.diffuse * materialDiffuse, 1) * NdotL;
+    if (NdotL &amp;gt; 0)
+    	result &amp;#43;= vec4(light.diffuse * materialDiffuse, 1) * NdotL;
 
     // specular
     vec3 V = normalize(-position.xyz);
     vec3 R = reflect(-L, normal.xyz);
     float RdotV = dot(R, V);
-    if (NdotL &gt; 0 &amp;&amp; RdotV &gt; 0)
-    	result &#43;= vec4(light.specular * materialSpecular * pow(RdotV, materialShininess), 1);
+    if (NdotL &amp;gt; 0 &amp;amp;&amp;amp; RdotV &amp;gt; 0)
+    	result &amp;#43;= vec4(light.specular * materialSpecular * pow(RdotV, materialShininess), 1);
 
     // attenuation
     float dist = length(matrixView * vec4(light.position, 1) - position);
@@ -638,19 +599,19 @@ void main(void)
 outColor = color;
 
     if (lightPoint1.on == 1){
-    	outColor &#43;= compPoint(materialDiffuse, materialSpecular, materialShininess, lightPoint1);
+    	outColor &amp;#43;= compPoint(materialDiffuse, materialSpecular, materialShininess, lightPoint1);
     }
     if (lightPoint2.on == 1){
-    	outColor &#43;= compPoint(materialDiffuse, materialSpecular, materialShininess, lightPoint2);
+    	outColor &amp;#43;= compPoint(materialDiffuse, materialSpecular, materialShininess, lightPoint2);
     }
     if (lightPoint3.on == 1){
-    	outColor &#43;= compPoint(materialDiffuse, materialSpecular, materialShininess, lightPoint3);
+    	outColor &amp;#43;= compPoint(materialDiffuse, materialSpecular, materialShininess, lightPoint3);
     }
     if (lightPoint4.on == 1){
-    	outColor &#43;= compPoint(materialDiffuse, materialSpecular, materialShininess, lightPoint4);
+    	outColor &amp;#43;= compPoint(materialDiffuse, materialSpecular, materialShininess, lightPoint4);
 
 //...
-}</pre>
+}</code></pre>
               </td>
             </tr>
           </tbody>
@@ -662,7 +623,7 @@ outColor = color;
 
 <h4 id="terrain-shader">Terrain Shader</h4>
 
-<p>In this shader, all the things related with terrain texturing, and lightning was implemented. In this case the texturing for the terrain is a little bit special, because it is textured with one texture or another depending if the program is rendering the part of the terrain above or bellow the water, this technique is called <em>Shoreline multitexturing</em>.</p>
+<p>In this shader, all the things related with terrain texturing, and lightning was implemented. In this case the texturing for the terrain is a little bit special, because it is textured with one texture or another depending if the program is rendering the part of the terrain above or bellow the water, this technique is called Shoreline multitexturing.</p>
 
 <p>
 
@@ -677,13 +638,11 @@ outColor = color;
     
   
   
-    
-  
 
 <figure class="codeblock codeblock--tabbed">
   <figcaption>
     
-      <span><a href="Shader">Terrain</a></span>
+      <span>Terrain</span>
     
     <ul class="tabs">
       
@@ -694,17 +653,15 @@ outColor = color;
   <div class="tabs-content">
     
       
-      <figure class="highlight vertex" style="display: block;">   
+      <figure class="highlight language-vertex" style="display: block;">   
         <table>
           <tbody>
             <tr>
               <td class="gutter">
-                <pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br></pre>
+                <pre><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br></pre>
               </td>
               <td class="code">
-                <pre class="vertex code-highlight">// ...
-
-void main(void)
+                <pre class="code-highlight language-vertex"><code class="vertex">void main(void)
 {
 outColor = color;
 
@@ -715,9 +672,7 @@ float isAboveWater = clamp(-waterDepth, 0, 1);
 outColor \*= mix(texture(textureBed, texCoord0), texture(textureShore, texCoord0), isAboveWater);
 
 //...
-}
-
-    </pre>
+}</code></pre>
               </td>
             </tr>
           </tbody>
@@ -750,13 +705,11 @@ outColor \*= mix(texture(textureBed, texCoord0), texture(textureShore, texCoord0
     
   
   
-    
-  
 
 <figure class="codeblock codeblock--tabbed">
   <figcaption>
     
-      <span><a href="Shader">Water</a></span>
+      <span>Water</span>
     
     <ul class="tabs">
       
@@ -769,24 +722,22 @@ outColor \*= mix(texture(textureBed, texCoord0), texture(textureShore, texCoord0
   <div class="tabs-content">
     
       
-      <figure class="highlight vertex" style="display: block;">   
+      <figure class="highlight language-vertex" style="display: block;">   
         <table>
           <tbody>
             <tr>
               <td class="gutter">
-                <pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br></pre>
+                <pre><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br></pre>
               </td>
               <td class="code">
-                <pre class="vertex code-highlight">//... Wave Animation
-
-float wave(float A, float x, float y, float t)
+                <pre class="code-highlight language-vertex"><code class="vertex">float wave(float A, float x, float y, float t)
 {
 	t *= 2;
 	return A * (
-				 sin(2.0* (x * 0.2&#43; y * 0.7) &#43; t * 1.0) &#43;
-				 sin(2.0* (x * 0.7&#43; y * 0.2) &#43; t * 0.8) &#43;
-				 pow(sin(2.0* (x * 0.6&#43; y * 0.5) &#43; t * 1.2), 2) &#43;
-				 pow(sin(2.0* (x * 0.8&#43; y * 0.2) &#43; t * 1.1), 2));
+				 sin(2.0* (x * 0.2&amp;#43; y * 0.7) &amp;#43; t * 1.0) &amp;#43;
+				 sin(2.0* (x * 0.7&amp;#43; y * 0.2) &amp;#43; t * 0.8) &amp;#43;
+				 pow(sin(2.0* (x * 0.6&amp;#43; y * 0.5) &amp;#43; t * 1.2), 2) &amp;#43;
+				 pow(sin(2.0* (x * 0.8&amp;#43; y * 0.2) &amp;#43; t * 1.1), 2));
 }
 
 
@@ -797,16 +748,15 @@ void main(void)
 	float y = wave(a, aVertex.x, aVertex.z, t);
 
 	float d = 0.05;
-	float dx = (wave(a, aVertex.x&#43;d, aVertex.z, t) -wave(a, aVertex.x-d, aVertex.z, t)) / 2/ d;
-	float dz = (wave(a, aVertex.x, aVertex.z&#43;d, t) -wave(a, aVertex.x, aVertex.z-d, t)) / 2/ d;
+	float dx = (wave(a, aVertex.x&amp;#43;d, aVertex.z, t) -wave(a, aVertex.x-d, aVertex.z, t)) / 2/ d;
+	float dz = (wave(a, aVertex.x, aVertex.z&amp;#43;d, t) -wave(a, aVertex.x, aVertex.z-d, t)) / 2/ d;
 
 	vec3 newVertex = vec3(aVertex.x, y, aVertex.z);
 	vec3 newNormal = normalize(vec3(-dx,1, -dz));
 
   //...
 
-}
-    </pre>
+}</code></pre>
               </td>
             </tr>
           </tbody>
@@ -814,15 +764,15 @@ void main(void)
       </figure>
     
       
-      <figure class="highlight fragment" style="display: none;">   
+      <figure class="highlight language-fragment" style="display: none;">   
         <table>
           <tbody>
             <tr>
               <td class="gutter">
-                <pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre>
+                <pre><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br></pre>
               </td>
               <td class="code">
-                <pre class="fragment code-highlight">//...
+                <pre class="code-highlight language-fragment"><code class="fragment">//...
 
 // Water-related
 uniform vec3 waterColor;
@@ -835,7 +785,7 @@ void main(void)
 
 	outColor = mix( vec4(waterColor, 0.2), vec4(skyColor, 1), reflFactor); 
 
-}</pre>
+}</code></pre>
               </td>
             </tr>
           </tbody>
@@ -845,9 +795,9 @@ void main(void)
   </div>
 </figure>
 
-<h4 id="particles-shaders">Particles Shaders</h4>
+<h4 id="particles-shader">Particles Shader</h4>
 
-<p>I have two different shaders for particle effects, but they are pretty much the same shader with the exception of some parameter so I would only show here the one related with the rain effect.</p>
+<p>I have implemented two different shaders for particle effects, but they are pretty much the same shader with the exception of some parameter so I would only show here the one related with the rain effect.</p>
 
 
 
@@ -861,14 +811,12 @@ void main(void)
   
     
   
-  
-    
   
 
 <figure class="codeblock codeblock--tabbed">
   <figcaption>
     
-      <span><a href="Rain">Particle</a></span>
+      <span>Particles</span>
     
     <ul class="tabs">
       
@@ -879,20 +827,18 @@ void main(void)
   <div class="tabs-content">
     
       
-      <figure class="highlight vertex" style="display: block;">   
+      <figure class="highlight language-vertex" style="display: block;">   
         <table>
           <tbody>
             <tr>
               <td class="gutter">
-                <pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre>
+                <pre><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br></pre>
               </td>
               <td class="code">
-                <pre class="vertex code-highlight">//...
-
-void main()
+                <pre class="code-highlight language-vertex"><code class="vertex">void main()
 {
 	float t = mod(time - aStartTime, particleLifetime);
-	vec3 pos = aInitialPos &#43; aVelocity * t &#43; gravity * t * t; 
+	vec3 pos = aInitialPos &amp;#43; aVelocity * t &amp;#43; gravity * t * t; 
 	age = t / particleLifetime;
 
 	// calculate position (normal calculation not applicable here)
@@ -900,7 +846,7 @@ void main()
 	gl_Position = matrixProjection * position;
 
 	gl_PointSize = scaleFactor * clamp(10 / length(position), 1, 5);
-}</pre>
+}</code></pre>
               </td>
             </tr>
           </tbody>
@@ -922,21 +868,6 @@ void main()
 <p>Here is a Screenshot of the outcome of the project:</p>
 
 
- 
-  
-  
-  
-  
-    
-      
-    
-  
-    
-      
-    
-  
-    
-  
 
  
   
@@ -963,8 +894,6 @@ void main()
   
 </div>
 
-  <div style="clear:both;"></div>
-
 
 <p>The whole project is available in <a href="https://github.com/manuelrdsg/HeroDemoGLSL">GitHub</a>, so don&rsquo;t hesitate to fork the project and modify the code as you like.</p>
 
@@ -972,7 +901,7 @@ void main()
 
 <p>&nbsp;</p>
 
-<p><em>Models by <a href="https://www.turbosquid.com/">TurboSquid.com</a></em></p>
+<p>Models by <a href="https://www.turbosquid.com">TurboSquid.com</a></p>
 
               
             </div>
@@ -985,80 +914,65 @@ void main()
                   <div class="post-footer-tags">
                     <span class="text-color-light text-small"></span><br/>
                     
-  <a class="tag tag--primary tag--small" href="http://manuelrdsg.github.io/tags/c&#43;&#43;/">C&#43;&#43;</a>
+  <a class="tag tag--primary tag--small" href="/tags/shaders/">Shaders</a>
 
-  <a class="tag tag--primary tag--small" href="http://manuelrdsg.github.io/tags/shaders/">Shaders</a>
+  <a class="tag tag--primary tag--small" href="/tags/opengl/">OpenGL</a>
 
-  <a class="tag tag--primary tag--small" href="http://manuelrdsg.github.io/tags/opengl/">OpenGL</a>
-
-  <a class="tag tag--primary tag--small" href="http://manuelrdsg.github.io/tags/dev/">Dev</a>
+  <a class="tag tag--primary tag--small" href="/tags/dev/">Dev</a>
 
                   </div>
                 
               
             
-            <div class="post-actions-wrap">
-  <nav>
-    <ul class="post-actions post-action-nav">
+            
+  <div class="post-actions-wrap">
+      <nav >
+        <ul class="post-actions post-action-nav">
+          
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--disabled">
+              
+                  <i class="fa fa-angle-left"></i>
+                  <span class="hide-xs hide-sm text-small icon-ml"></span>
+                </a>
+            </li>
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--default tooltip--top" href="/2017/12/de-la-ventana-a-la-manzana/" data-tooltip="De la ventana a la manzana">
+              
+                  <span class="hide-xs hide-sm text-small icon-mr"></span>
+                  <i class="fa fa-angle-right"></i>
+                </a>
+            </li>
+          
+        </ul>
+      </nav>
+    <ul class="post-actions post-action-share" >
       
-        <li class="post-action">
-          
-            <a class="post-action-btn btn btn--disabled">
-          
-            <i class="fa fa-angle-left"></i>
-            <span class="hide-xs hide-sm text-small icon-ml"></span>
+        <li class="post-action hide-lg hide-md hide-sm">
+          <a class="post-action-btn btn btn--default btn-open-shareoptions" href="#btn-open-shareoptions">
+            <i class="fa fa-share-alt"></i>
           </a>
         </li>
+        
+      
+      
         <li class="post-action">
-          
-            <a class="post-action-btn btn btn--default tooltip--top" href="/2017/12/de-la-ventana-a-la-manzana/" data-tooltip="De la ventana a la manzana">
-          
-            <span class="hide-xs hide-sm text-small icon-mr"></span>
-            <i class="fa fa-angle-right"></i>
+          <a class="post-action-btn btn btn--default" href="#disqus_thread">
+            <i class="fa fa-comment-o"></i>
           </a>
         </li>
       
-    </ul>
-  </nav>
-  <ul class="post-actions post-action-share">
-    
-      <li class="post-action hide-lg hide-md hide-sm">
-        <a class="post-action-btn btn btn--default btn-open-shareoptions" href="#btn-open-shareoptions">
-          <i class="fa fa-share-alt"></i>
-        </a>
-      </li>
-      <li class="post-action hide-xs">
-        <a class="post-action-btn btn btn--default" target="new" href="https://plus.google.com/share?url=http%3a%2f%2fmanuelrdsg.github.io%2f2018%2f04%2fherodemo-a-glsl-shaders-project%2f">
-          <i class="fa fa-google-plus"></i>
-        </a>
-      </li>
-      <li class="post-action hide-xs">
-        <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fmanuelrdsg.github.io%2f2018%2f04%2fherodemo-a-glsl-shaders-project%2f">
-          <i class="fa fa-facebook-official"></i>
-        </a>
-      </li>
-      <li class="post-action hide-xs">
-        <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=http%3a%2f%2fmanuelrdsg.github.io%2f2018%2f04%2fherodemo-a-glsl-shaders-project%2f">
-          <i class="fa fa-twitter"></i>
-        </a>
-      </li>
-    
-    
       <li class="post-action">
-        <a class="post-action-btn btn btn--default" href="#disqus_thread">
-          <i class="fa fa-comment-o"></i>
+        
+          <a class="post-action-btn btn btn--default" href="#">
+        
+          <i class="fa fa-list"></i>
         </a>
       </li>
-    
-    <li class="post-action">
-      
-        <a class="post-action-btn btn btn--default" href="#">
-      
-        <i class="fa fa-list"></i>
-      </a>
-    </li>
-  </ul>
-</div>
+    </ul>
+  </div>
 
 
             
@@ -1078,88 +992,62 @@ void main()
 
       </div>
       <div id="bottom-bar" class="post-bottom-bar" data-behavior="4">
-        <div class="post-actions-wrap">
-  <nav>
-    <ul class="post-actions post-action-nav">
+        
+  <div class="post-actions-wrap">
+      <nav >
+        <ul class="post-actions post-action-nav">
+          
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--disabled">
+              
+                  <i class="fa fa-angle-left"></i>
+                  <span class="hide-xs hide-sm text-small icon-ml"></span>
+                </a>
+            </li>
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--default tooltip--top" href="/2017/12/de-la-ventana-a-la-manzana/" data-tooltip="De la ventana a la manzana">
+              
+                  <span class="hide-xs hide-sm text-small icon-mr"></span>
+                  <i class="fa fa-angle-right"></i>
+                </a>
+            </li>
+          
+        </ul>
+      </nav>
+    <ul class="post-actions post-action-share" >
       
-        <li class="post-action">
-          
-            <a class="post-action-btn btn btn--disabled">
-          
-            <i class="fa fa-angle-left"></i>
-            <span class="hide-xs hide-sm text-small icon-ml"></span>
+        <li class="post-action hide-lg hide-md hide-sm">
+          <a class="post-action-btn btn btn--default btn-open-shareoptions" href="#btn-open-shareoptions">
+            <i class="fa fa-share-alt"></i>
           </a>
         </li>
+        
+      
+      
         <li class="post-action">
-          
-            <a class="post-action-btn btn btn--default tooltip--top" href="/2017/12/de-la-ventana-a-la-manzana/" data-tooltip="De la ventana a la manzana">
-          
-            <span class="hide-xs hide-sm text-small icon-mr"></span>
-            <i class="fa fa-angle-right"></i>
+          <a class="post-action-btn btn btn--default" href="#disqus_thread">
+            <i class="fa fa-comment-o"></i>
           </a>
         </li>
       
-    </ul>
-  </nav>
-  <ul class="post-actions post-action-share">
-    
-      <li class="post-action hide-lg hide-md hide-sm">
-        <a class="post-action-btn btn btn--default btn-open-shareoptions" href="#btn-open-shareoptions">
-          <i class="fa fa-share-alt"></i>
-        </a>
-      </li>
-      <li class="post-action hide-xs">
-        <a class="post-action-btn btn btn--default" target="new" href="https://plus.google.com/share?url=http%3a%2f%2fmanuelrdsg.github.io%2f2018%2f04%2fherodemo-a-glsl-shaders-project%2f">
-          <i class="fa fa-google-plus"></i>
-        </a>
-      </li>
-      <li class="post-action hide-xs">
-        <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fmanuelrdsg.github.io%2f2018%2f04%2fherodemo-a-glsl-shaders-project%2f">
-          <i class="fa fa-facebook-official"></i>
-        </a>
-      </li>
-      <li class="post-action hide-xs">
-        <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=http%3a%2f%2fmanuelrdsg.github.io%2f2018%2f04%2fherodemo-a-glsl-shaders-project%2f">
-          <i class="fa fa-twitter"></i>
-        </a>
-      </li>
-    
-    
       <li class="post-action">
-        <a class="post-action-btn btn btn--default" href="#disqus_thread">
-          <i class="fa fa-comment-o"></i>
+        
+          <a class="post-action-btn btn btn--default" href="#">
+        
+          <i class="fa fa-list"></i>
         </a>
       </li>
-    
-    <li class="post-action">
-      
-        <a class="post-action-btn btn btn--default" href="#">
-      
-        <i class="fa fa-list"></i>
-      </a>
-    </li>
-  </ul>
-</div>
+    </ul>
+  </div>
 
 
       </div>
       <div id="share-options-bar" class="share-options-bar" data-behavior="4">
+  <i id="btn-close-shareoptions" class="fa fa-close"></i>
   <ul class="share-options">
-    <li class="share-option">
-      <a class="share-option-btn" target="new" href="https://plus.google.com/share?url=http%3a%2f%2fmanuelrdsg.github.io%2f2018%2f04%2fherodemo-a-glsl-shaders-project%2f">
-        <i class="fa fa-google-plus"></i><span></span>
-      </a>
-    </li>
-    <li class="share-option">
-      <a class="share-option-btn" target="new" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fmanuelrdsg.github.io%2f2018%2f04%2fherodemo-a-glsl-shaders-project%2f">
-        <i class="fa fa-facebook-official"></i><span></span>
-      </a>
-    </li>
-    <li class="share-option">
-      <a class="share-option-btn" target="new" href="https://twitter.com/intent/tweet?text=http%3a%2f%2fmanuelrdsg.github.io%2f2018%2f04%2fherodemo-a-glsl-shaders-project%2f">
-        <i class="fa fa-twitter"></i><span></span>
-      </a>
-    </li>
+    
   </ul>
 </div>
 <div id="share-options-mask" class="share-options-mask"></div>
@@ -1175,7 +1063,7 @@ void main()
     
     <h4 id="about-card-name">Manuel Rodríguez-Sánchez</h4>
     
-      <div id="about-card-bio">Software Engineer. Currently studying at Kingston University.</div>
+      <div id="about-card-bio">Software Engineer in progress. Currently studying at Kingston University.</div>
     
     
     
@@ -1192,7 +1080,7 @@ void main()
   <div class="modal">
     <div class="modal-header">
       <span class="close-button"><i class="fa fa-close"></i></span>
-      <a href="https://algolia.com" target="_blank" class="searchby-algolia text-color-light link-unstyled">
+      <a href="https://algolia.com" target="_blank" rel="noopener" class="searchby-algolia text-color-light link-unstyled">
         <span class="searchby-algolia-text text-color-light text-small">by</span>
         <img class="searchby-algolia-logo" src="https://www.algolia.com/static_assets/images/press/downloads/algolia-light.svg">
       </a>
@@ -1218,8 +1106,8 @@ void main()
                   Apr 4, 2018
                 </span>
               </span>
-              <div class="media-content hide-xs font-merryweather">Through the last year I have been learning OpenGL and Shader programming with GLSL. I started learning the basics of OpenGL, how to render objects, how to place them in the scene&hellip; and also the basics of shader programming, how the pipeline works and how to render basic effects like directional or ambient lightning.
-After months learning OpenGL and GLSL I have developed this example project called Hero Demo it is a night scene, with particles effect, SkyBoxing, per-fragment point lightning, water rendering&hellip;</div>
+              <div class="media-content hide-xs font-merryweather">Through the last year I have been learning OpenGL and Shader programming with GLSL. I started learning the basics of OpenGL, how to render objects, how to place them in the scene; and also the basics of shader programming, how the pipeline works and how to render basic effects like directional or ambient lightning.
+After months learning OpenGL and GLSL I have developed this example project called Hero Demo it is a night scene, with particles effect, SkyBoxing, per-fragment point lightning, water rendering</div>
             </div>
             <div style="clear:both;"></div>
             <hr>
@@ -1280,23 +1168,6 @@ Hace no mucho me han confirmado que el año que viene (si todo va bien) estaré 
             <hr>
           </div>
         
-          <div class="media">
-            
-            <div class="media-body">
-              <a class="link-unstyled" href="http://manuelrdsg.github.io/post/">
-                <h3 class="media-heading">Posts</h3>
-              </a>
-              <span class="media-meta">
-                <span class="media-date text-small">
-                  Apr 4, 2018
-                </span>
-              </span>
-              <div class="media-content hide-xs font-merryweather"></div>
-            </div>
-            <div style="clear:both;"></div>
-            <hr>
-          </div>
-        
       </div>
     </div>
     <div class="modal-footer">
@@ -1304,7 +1175,7 @@ Hace no mucho me han confirmado que el año que viene (si todo va bien) estaré 
          data-message-zero=""
          data-message-one=""
          data-message-other="">
-         5 posts found
+         4 posts found
       </p>
     </div>
   </div>
@@ -1317,32 +1188,15 @@ Hace no mucho me han confirmado que el año que viene (si todo va bien) estaré 
 
 
     
-<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.8.0/highlight.min.js"></script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.4/jquery.fancybox.min.js"></script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.4/helpers/jquery.fancybox-thumbs.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.7/js/jquery.fancybox.min.js" integrity="sha256-GEAnjcTqVP+vBp3SSc8bEDQqvWAZMiHyUSIorrWwH50=" crossorigin="anonymous"></script>
 
 
-<script src="/js/script-wl33z0n6ocaypepiqrazthtivfrliqijej4rq8ek8gvrv1awftmgjuv8k4zc.min.js"></script>
+<script src="/js/script-qi9wbxp2ya2j6p7wx1i6tgavftewndznf4v0hy2gvivk1rxgc3lm7njqb6bz.min.js"></script>
 
-<script>
-$(document).ready(function() {
-  hljs.configure({ classPrefix: '', useBR: false });
-  $('pre.code-highlight').each(function(i, block) {
-    var code = "";
-    hljs.highlightAuto(block.innerText).value.split(/\r\n|\r|\n/).forEach(function(line) {
-      code += "<span class=\"line\">" + line + "</span><br>";
-    });
-    if (code.length > 0) {
-      block.innerHTML = code;  
-    }
-  });
-  $('pre > code').each(function(i, block) {
-    $(this).addClass('codeblock');
-    hljs.highlightBlock(block);
-  });
-});
-</script>
+
+
 
   
     
@@ -1369,6 +1223,7 @@ $(document).ready(function() {
       </script>
     
   
+
 
 
     

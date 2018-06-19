@@ -30,6 +30,15 @@
     </item>
     
     <item>
+      <title>Dev</title>
+      <link>http://manuelrdsg.github.io/tags/dev/</link>
+      <pubDate>Mon, 23 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://manuelrdsg.github.io/tags/dev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Erasmus</title>
       <link>http://manuelrdsg.github.io/tags/erasmus/</link>
       <pubDate>Sat, 25 Mar 2017 00:00:00 +0000</pubDate>
@@ -57,11 +66,29 @@
     </item>
     
     <item>
+      <title>Opengl</title>
+      <link>http://manuelrdsg.github.io/tags/opengl/</link>
+      <pubDate>Mon, 23 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://manuelrdsg.github.io/tags/opengl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Portatil</title>
       <link>http://manuelrdsg.github.io/tags/portatil/</link>
       <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>http://manuelrdsg.github.io/tags/portatil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shaders</title>
+      <link>http://manuelrdsg.github.io/tags/shaders/</link>
+      <pubDate>Mon, 23 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://manuelrdsg.github.io/tags/shaders/</guid>
       <description></description>
     </item>
     
