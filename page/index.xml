@@ -18,8 +18,8 @@
       <guid>http://manuelrdsg.github.io/page/about/</guid>
       <description>Hi! I am Manuel, student at Kingston University.
  CV  Work Currently I&amp;rsquo;m finishing my degree in Computer Science at Kinston University. Focusing on Software Engineering and Web Development.
-Also I&amp;rsquo;m writing my dissertation, an objective comparison between the most used Cross-Platform Frameworks in the software development industry.This is a collaboration project between Intelygenz and Cádiz University.
-Past Work I worked as an intern on a software project at University of Cádiz.</description>
+Past Work I worked as an intern on a software project at University of Cádiz. That project is called “GuessIt!” and is an application for mobile platforms, mainly Android.
+The aim of the project is achieve an app which an student would use to learn languages like English or German.</description>
     </item>
     
     <item>
@@ -28,12 +28,8 @@ Past Work I worked as an intern on a software project at University of Cádiz.</
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://manuelrdsg.github.io/page/projects/</guid>
-      <description>Hero Demo Developed using C++ with OpenGL and GLSL Shaders.
-Night scene developed with GLSL Shaders, it includes effects like per-fragment point lightning, directional and ambient lightning, particle effects, water rendering, vertex shader water animation, skyboxing, texturing&amp;hellip;
-  Post.
-GitHub Repository.
-NetflaxCalendar Developed using Python with Dropbox, Twitter and GoogleCalendar API&amp;rsquo;s and Celery.
-If you have ever missed the publication of your favorite series on Netflix, the aim of the app is to add an event to a Calendar in GoogleCalendar with the publication date of the series on Netflix.</description>
+      <description>NetflaxCalendar Developed using Python with Dropbox, Twitter and GoogleCalendar API&amp;rsquo;s and Celery.
+If you have ever missed the publication of your favorite series on Netflix, the aim of the app is to add an event to a Calendar in GoogleCalendar with the publication date of the series on Netflix. To achieve that it uses Netflix twitter bot&amp;rsquo;s (Such as NetflixBot or ElGallodeNetflix) tweets ans every time a new tweet is published it adds an event to your series calendar.</description>
     </item>
     
   </channel>
