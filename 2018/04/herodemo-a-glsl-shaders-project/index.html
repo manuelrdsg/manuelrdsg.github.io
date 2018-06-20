@@ -269,17 +269,17 @@ After months learning OpenGL and GLSL I have developed this example project call
             <div class="main-content-wrap">
               
 
-<p>Through the last year I have been learning OpenGL and Shader programming with GLSL. I started learning the basics of OpenGL, how to render objects, how to place them in the scene; and also the basics of shader programming, how the pipeline works and how to render basic effects like directional or ambient lightning.</p>
+<p>Through the last year I have been learning <em>OpenGL</em> and Shader programming with <strong><em>GLSL</em></strong>. I started learning the basics of <em>OpenGL</em>, how to render objects, how to place them in the scene; and also the basics of shader programming, how the pipeline works and how to render basic effects like directional or ambient lightning.</p>
 
-<p>After months learning OpenGL and GLSL I have developed this example project called Hero Demo it is a night scene, with particles effect, SkyBoxing, per-fragment point lightning, water rendering</p>
+<p>After months learning <em>OpenGL</em> and <em>GLSL</em> I have developed this example project called <strong>Hero Demo</strong> it is a night scene, with particles effect, SkyBoxing, per-fragment point lightning, water rendering</p>
 
 <p>Let&rsquo;s take a closer look at the implementation and all the effects added to the scene</p>
 
 <h3 id="scene">Scene</h3>
 
-<p>The main idea was to develop a night scene, so the lightning effects would be noticeable. So I created an island terrain using a PNG heightmap. I used one heightmap I have downloaded from the internet as a template and edited it using Photoshop.</p>
+<p>The main idea was to develop a night scene, so the lightning effects would be noticeable. So I created an island terrain using a <em>PNG heightmap</em>. I used one heightmap I have downloaded from the internet as a template and edited it using Photoshop.</p>
 
-<p>The heightmap for the terrain:</p>
+<p>The <strong>heightmap</strong> for the terrain:</p>
 
 
 
@@ -309,7 +309,7 @@ After months learning OpenGL and GLSL I have developed this example project call
 </div>
 
 
-<p>To that terrain I added, a Cabin, Pier, Bushes, Lamps and a firepit model. Most of them were downloaded free of charge from <a href="https://www.turbosquid.com/">TurboSquid</a> a 3D model database that I highly recommend. All of them were properly textured before place them in the scene.</p>
+<p>To that terrain I added, a <em>Cabin, Pier, Bushes, Lamps and a firepit</em> model. Most of them were downloaded free of charge from <a href="https://www.turbosquid.com/"><strong><em>TurboSquid</em></strong></a> a 3D model database that I highly recommend. All of them were properly textured before place them in the scene.</p>
 
 <p>The models used for the scene were:</p>
 
@@ -475,7 +475,7 @@ After months learning OpenGL and GLSL I have developed this example project call
 
 <h4 id="basic-shader">Basic Shader</h4>
 
-<p>Used for the effects applied only to the models rendered in the scene. Here I have implemented the fog effect and the per-fragment point lightning for the objects. It also contains directional and ambient lightning effects. Here you can see a Snippet about how the Ambient, Directional and Per-Fragment Point Lightning was implemented.</p>
+<p>Used for the effects applied only to the models rendered in the scene. Here I have implemented the <strong>fog effect</strong> and the per-fragment point lightning for the objects. It also contains directional and ambient lightning effects. Here you can see a <em>Snippet</em> about how the Ambient, Directional and Per-Fragment Point Lightning was implemented.</p>
 
 
 
@@ -543,7 +543,7 @@ void main(void)
 //...
 
     fogFactor = exp2(-fogDensity * length(position));
-
+    
     	// calculate light
     color = vec4(0, 0, 0, 1);
     if (lightAmbient.on == 1)
@@ -578,18 +578,18 @@ vec4 result = vec4(0, 0, 0, 1);
     float NdotL = dot(L, normal.xyz);
     if (NdotL &amp;gt; 0)
     	result &amp;#43;= vec4(light.diffuse * materialDiffuse, 1) * NdotL;
-
+    
     // specular
     vec3 V = normalize(-position.xyz);
     vec3 R = reflect(-L, normal.xyz);
     float RdotV = dot(R, V);
     if (NdotL &amp;gt; 0 &amp;amp;&amp;amp; RdotV &amp;gt; 0)
     	result &amp;#43;= vec4(light.specular * materialSpecular * pow(RdotV, materialShininess), 1);
-
+    
     // attenuation
     float dist = length(matrixView * vec4(light.position, 1) - position);
     float att = 1 / (dist * dist) / 0.1;
-
+    
     return result * att;
 
 }
@@ -623,7 +623,7 @@ outColor = color;
 
 <h4 id="terrain-shader">Terrain Shader</h4>
 
-<p>In this shader, all the things related with terrain texturing, and lightning was implemented. In this case the texturing for the terrain is a little bit special, because it is textured with one texture or another depending if the program is rendering the part of the terrain above or bellow the water, this technique is called Shoreline multitexturing.</p>
+<p>In this shader, all the things related with <em>terrain texturing</em>, and lightning was implemented. In this case the texturing for the terrain is a little bit special, because it is textured with one texture or another depending if the program is rendering the part of the terrain above or bellow the water, this technique is called <strong><em>Shoreline multitexturing</em></strong>.</p>
 
 <p>
 
@@ -684,7 +684,7 @@ outColor \*= mix(texture(textureBed, texCoord0), texture(textureShore, texCoord0
 
 <h4 id="water-shader">Water Shader</h4>
 
-<p>Here, I implemented all the things related with the water rendering effects. The wave animation of the water is down through the vertex shader. Also, the water is textured with a mixture of a water texture and the skybox colour so the water never have a completely different colour than the skybox.</p>
+<p>Here, I implemented all the things related with the water rendering effects. The wave animation of the water is down through the vertex shader. Also, the water is textured with a mixture of a water texture and the <em>skybox</em> colour so the water never have a completely different colour than the <em>skybox</em>.</p>
 
 
 
@@ -750,7 +750,7 @@ void main(void)
 	float d = 0.05;
 	float dx = (wave(a, aVertex.x&amp;#43;d, aVertex.z, t) -wave(a, aVertex.x-d, aVertex.z, t)) / 2/ d;
 	float dz = (wave(a, aVertex.x, aVertex.z&amp;#43;d, t) -wave(a, aVertex.x, aVertex.z-d, t)) / 2/ d;
-
+	
 	vec3 newVertex = vec3(aVertex.x, y, aVertex.z);
 	vec3 newNormal = normalize(vec3(-dx,1, -dz));
 
@@ -797,7 +797,7 @@ void main(void)
 
 <h4 id="particles-shader">Particles Shader</h4>
 
-<p>I have implemented two different shaders for particle effects, but they are pretty much the same shader with the exception of some parameter so I would only show here the one related with the rain effect.</p>
+<p>I have implemented two different shaders for particle effects, but they are pretty much the same shader with the exception of some parameter so I would only show here the one related with the <em>rain effect</em>.</p>
 
 
 
@@ -844,7 +844,7 @@ void main(void)
 	// calculate position (normal calculation not applicable here)
 	position = matrixModelView * vec4(pos, 1.0);
 	gl_Position = matrixProjection * position;
-
+	
 	gl_PointSize = scaleFactor * clamp(10 / length(position), 1, 5);
 }</code></pre>
               </td>
@@ -895,13 +895,13 @@ void main(void)
 </div>
 
 
-<p>The whole project is available in <a href="https://github.com/manuelrdsg/HeroDemoGLSL">GitHub</a>, so don&rsquo;t hesitate to fork the project and modify the code as you like.</p>
+<p>The whole project is available in <a href="https://github.com/manuelrdsg/HeroDemoGLSL"><em>GitHub</em></a>, so don&rsquo;t hesitate to fork the project and modify the code as you like.</p>
 
-<p><a href="https://github.com/manuelrdsg/HeroDemoGLSL">GitHub Repository</a></p>
+<p><a href="https://github.com/manuelrdsg/HeroDemoGLSL"><em>GitHub Repository</em></a></p>
 
 <p>&nbsp;</p>
 
-<p>Models by <a href="https://www.turbosquid.com">TurboSquid.com</a></p>
+<p>Models by <a href="https://www.turbosquid.com"><em>TurboSquid.com</em></a></p>
 
               
             </div>
