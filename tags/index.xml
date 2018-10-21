@@ -30,9 +30,18 @@
     </item>
     
     <item>
+      <title>Customization</title>
+      <link>http://manuelrdsg.github.io/tags/customization/</link>
+      <pubDate>Fri, 12 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://manuelrdsg.github.io/tags/customization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Dev</title>
       <link>http://manuelrdsg.github.io/tags/dev/</link>
-      <pubDate>Mon, 23 Apr 2018 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 12 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>http://manuelrdsg.github.io/tags/dev/</guid>
       <description></description>
@@ -93,11 +102,29 @@
     </item>
     
     <item>
+      <title>Terminal</title>
+      <link>http://manuelrdsg.github.io/tags/terminal/</link>
+      <pubDate>Fri, 12 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://manuelrdsg.github.io/tags/terminal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Universidad</title>
       <link>http://manuelrdsg.github.io/tags/universidad/</link>
       <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>http://manuelrdsg.github.io/tags/universidad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zshell</title>
+      <link>http://manuelrdsg.github.io/tags/zshell/</link>
+      <pubDate>Fri, 12 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://manuelrdsg.github.io/tags/zshell/</guid>
       <description></description>
     </item>
     

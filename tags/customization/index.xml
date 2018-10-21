@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Customization on Manuel Rguez-Sánchez</title>
+    <link>http://manuelrdsg.github.io/tags/customization/</link>
+    <description>Recent content in Customization on Manuel Rguez-Sánchez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Fri, 12 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://manuelrdsg.github.io/tags/customization/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Improving the look of your MacOS Terminal</title>
+      <link>http://manuelrdsg.github.io/2018/10/improving-the-look-of-your-macos-terminal/</link>
+      <pubDate>Fri, 12 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://manuelrdsg.github.io/2018/10/improving-the-look-of-your-macos-terminal/</guid>
+      <description>Since I upgraded my Mac to the latest Mojave build, due to it&amp;rsquo;s Dark Mode I was wanting to change the look of my MacOS Terminal.
+So, after searching and going through a few tutorials I have completely changed the look of my terminal, here you will find a tutorial about which steps have I made to change my terminal.
+Step 1: Get rid off the default terminal If we want to choose a different terminal emulator, in MacOS there are two main options:</description>
+    </item>
+    
+  </channel>
+</rss>
