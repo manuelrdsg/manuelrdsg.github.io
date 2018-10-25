@@ -16,10 +16,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://manuelrdsg.github.io/page/about/</guid>
-      <description>Hi! I am Manuel, student at Kingston University.
- CV  Work Currently I&amp;rsquo;m finishing my degree in Computer Science at Kinston University. Focusing on Software Engineering and Web Development.
-Past Work I worked as an intern on a software project at University of Cádiz. That project is called “GuessIt!” and is an application for mobile platforms, mainly Android.
-The aim of the project is achieve an app which an student would use to learn languages like English or German.</description>
+      <description>Hi! I am Manuel, Full Stack developer at Intelygenz Software.
+ You can take a look at my CV  Currently I&amp;rsquo;m working as a Full Stack developer at Intelygenz Software in Madrid, Spain. I&amp;rsquo;m focused in cross-platform techonologies as React Native and Ionic.
+Past Work Cross-Platform frameworks: A comparative study Along with Intelygenz and the University of Cádiz, I developed an study about the performance of the most used Cross-Platform technologies in the software developement industry (React Native, Ionic, Weex and Flutter).</description>
     </item>
     
     <item>
@@ -28,8 +27,8 @@ The aim of the project is achieve an app which an student would use to learn lan
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://manuelrdsg.github.io/page/projects/</guid>
-      <description>NetflaxCalendar Developed using Python with Dropbox, Twitter and GoogleCalendar API&amp;rsquo;s and Celery.
-If you have ever missed the publication of your favorite series on Netflix, the aim of the app is to add an event to a Calendar in GoogleCalendar with the publication date of the series on Netflix. To achieve that it uses Netflix twitter bot&amp;rsquo;s (Such as NetflixBot or ElGallodeNetflix) tweets ans every time a new tweet is published it adds an event to your series calendar.</description>
+      <description>Cross-Platform frameworks: A comparative study Developed as a collaboration project between Intelygenz Software and the University of Cádiz.
+The study aimed to dispel doubts when choosing a cross-platform development. For this, the most used cross-platform frameworks in the software development industry (React Native, Ionic, Flutter and Weex) have been compared in terms of execution times and code quality, offering an objective comparison between them. This comparison has been made through the development of four benchmark applications, one in each of the frameworks and the measurement of metrics in them for the subsequent contrast of the data obtained.</description>
     </item>
     
   </channel>
