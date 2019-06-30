@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>React Native on Manuel Rguez-Sánchez</title>
+    <link>http://manuelrdsg.github.io/tags/react-native/</link>
+    <description>Recent content in React Native on Manuel Rguez-Sánchez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Sun, 30 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://manuelrdsg.github.io/tags/react-native/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Secure your React Native Apps before production!</title>
+      <link>http://manuelrdsg.github.io/2019/06/secure-your-react-native-apps-before-production/</link>
+      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://manuelrdsg.github.io/2019/06/secure-your-react-native-apps-before-production/</guid>
+      <description>We all know that the weeks before launching an app into production are stressful enough, but do not forget about the vulnerabilities while you finish all the features for the MVP product.
+ Stressed monkey before production  In this post I&amp;rsquo;ll talk about three common vulnerabilities when it comes to React Native Apps. Code Obfuscation, disabling logs in production and what happens with the API keys of our app, how can we store them safety?</description>
+    </item>
+    
+  </channel>
+</rss>
