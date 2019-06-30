@@ -77,25 +77,25 @@
   </url>
   
   <url>
-    <loc>http://manuelrdsg.github.io/tags/dev/</loc>
-    <lastmod>2018-10-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://manuelrdsg.github.io/categories/dev/</loc>
     <lastmod>2019-06-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://manuelrdsg.github.io/tags/erasmus/</loc>
-    <lastmod>2017-03-25T00:00:00+00:00</lastmod>
+    <loc>http://manuelrdsg.github.io/tags/dev/</loc>
+    <lastmod>2018-10-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://manuelrdsg.github.io/categories/erasmus/</loc>
+    <lastmod>2017-03-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://manuelrdsg.github.io/tags/erasmus/</loc>
     <lastmod>2017-03-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
