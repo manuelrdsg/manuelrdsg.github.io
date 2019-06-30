@@ -397,7 +397,7 @@
 
 <p>Now, some exceptions:</p>
 
-<p><strong><em>1.-</em></strong> If your using <a href="https://github.com/luggit/react-native-config"><code>react-native-config</code></a> in order to configure different environments in your app. You will need to add the following lines to the end of your <code>proguard-rules.pro</code> file</p>
+<p><strong><em>1.-</em></strong> If your using <a href="https://github.com/luggit/react-native-config"><code>react-native-config</code></a> in order to configure different environments in your app. You will need to add the following lines to the end of your <code>proguard-rules.pro</code> file.</p>
 
 <pre><code># react-native-config
 -keep class com.mypackage.BuildConfig { *; }
@@ -422,7 +422,7 @@
 <pre><code class="language-shell">npm install babel-plugin-transform-remove-console --save-dev
 </code></pre>
 
-<p><strong><em>2.-</em></strong> Add the following configuration lines to your <strong><em>.babelrc</em></strong> file (In case that you didn&rsquo;t have one create the file in the root of your react native project)</p>
+<p><strong><em>2.-</em></strong> Add the following configuration lines to your <strong><em>.babelrc</em></strong> file (In case that you didn&rsquo;t have one create the file in the root of your react native project).</p>
 
 <pre><code class="language-json">{
   &quot;env&quot;: {
@@ -433,7 +433,7 @@
 }
 </code></pre>
 
-<p><strong><em>3.-</em></strong> If you are using <a href="https://github.com/LogRocket/redux-logger"><code>redux-logger</code></a> for logging the redux calls add the following code to your store in order to not apply this middleware when we are in a release version</p>
+<p><strong><em>3.-</em></strong> If you are using <a href="https://github.com/LogRocket/redux-logger"><code>redux-logger</code></a> for logging the redux calls add the following code to your store in order to not apply this middleware when we are in a release version.</p>
 
 <pre><code class="language-javascript">function getMiddlewares() {
   if (DEV) {
@@ -458,11 +458,11 @@ export const store = createStore(rootReducer, getMiddlewares());
 
 <p><strong><em>Example:</em></strong></p>
 
-<p>Imagine that we have the following environmental template file (.env.tpl)</p>
+<p>Imagine that we have the following environmental template file (.env.tpl).</p>
 
 <pre><code>KEYSTORE_ALIAS=$KEYSTORE_ALIAS
 KEYSTORE_PASSWORD=$KEYSTORE_PASSWORD
-GOOGLE_MAPS_API_KEY=\$GMAPS_API_KEY
+GOOGLE_MAPS_API_KEY=$GMAPS_API_KEY
 </code></pre>
 
 <p>If in out CI config file we setup the following action&hellip;</p>
